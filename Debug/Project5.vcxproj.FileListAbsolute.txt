@@ -1,0 +1,4 @@
+C:\Users\hudze\source\repos\Project5\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\hudze\source\repos\Project5\Debug\Project5.exe
+C:\Users\hudze\source\repos\Project5\Debug\Project5.MyForm.resources
+C:\Users\hudze\source\repos\Project5\Debug\Project5.vcxproj.GenerateResource.cache

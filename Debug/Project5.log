@@ -1,0 +1,2 @@
+﻿  MyForm.cpp
+C:\Users\grzyb\OneDrive\Pulpit\PROGRAMOWANIE2\MyForm.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'curl/curl.h': No such file or directory
